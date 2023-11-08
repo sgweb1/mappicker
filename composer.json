@@ -10,12 +10,6 @@
             "Sgweb1\\Mappicker\\": "src/"
         }
     },
-    "authors": [
-        {
-            "name": "yemenpoint",
-            "email": "ebrahim29001@gmail.com"
-        }
-    ],
     "extra": {
         "laravel": {
             "providers": [
