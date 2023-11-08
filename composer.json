@@ -1,5 +1,5 @@
 {
-    "name": "yemenpoint/filament-google-map-location-picker",
+    "name": "sgweb1/mappicker",
     "description": "Google map location picker for filament",
     "type": "library",
     "require": {
